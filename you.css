@@ -1,0 +1,235 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#main{
+    width: 100%;
+    height: 100%;
+}
+#top{
+    width: 100%;
+    height: 60%;
+    background-color: rgb(165, 137, 137);
+    color: white;
+    font-family: "gilroy";
+    font-weight: 100;
+    background-size: cover;
+    background-position: 2% 7%;
+    background-image: url(https://o.remove.bg/downloads/02b4e303-8ce3-44c2-9f60-73fd8ff677c3/photo-1519058082700-08a0b56da9b4-removebg-preview.png);
+}
+#b{
+    width: 100%;
+    height: 37%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#c{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-left: 120px;
+}
+#c i{
+    padding: 7px 7px;
+    background-color: red;
+    border-radius: 50%;
+}
+#c1 i{
+    padding: 7px 7px;
+    background-color: #fff;
+    border-radius: 50%;
+    color: black;
+}
+#c1{
+    display: flex;
+    gap: 15px;
+    margin-right: 120px;
+}
+#b1{
+    width: 100%;
+    height: 37%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#d{
+    font-size: 35px;
+}
+#d3{
+    display: flex;
+    gap: 16px;
+}
+#b2{
+    width: 100%;
+    height: 26%;
+    padding-left: 130px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+#f{
+    width: 8px;
+    height: 8px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+}
+#f1{
+    width: 8px;
+    height: 8px;
+    border: 2px solid #d0b2b2;
+    border-radius: 50%;
+}
+#f2{
+    width: 8px;
+    height: 8px;
+    border: 2px solid #dcc6c6;
+    border-radius: 50%;
+}
+#bottom{
+    display: flex;
+    width: 100%;
+    height: 40%;
+    font-family: "gilroy";
+    font-weight: 300;
+}
+#card{
+    width: 25%;
+    height: 100%;
+    background-color: #fff;
+}
+#card h1{
+    padding-top: 38px;
+    padding-left: 53px;
+    color: #c1b0b0;
+}
+#card p{
+    padding-top: 20px;
+    padding-left: 55px;
+}
+#card #e{
+   margin-top: 78px;
+   padding-left: 53px;
+}
+#e i{
+    font-size: 30px;
+    padding: 8px 8px;
+    border-radius: 50%;
+    background-color: #fcf4f4;
+    color: #c1b0b0;
+}
+#card1{
+    width: 25%;
+    height: 100%;
+    background-color: rgb(236, 219, 219);
+    background-position: 10% 20%;
+    background-image: url(https://o.remove.bg/downloads/597a75a3-5807-40eb-8680-a703886725f2/photo-1624421896903-09f9abe0c3bf-removebg-preview.png);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#card1 i{
+    padding: 4px 4px;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    font-size: 30px;
+    color: #fff;
+}
+#card2{
+    width: 25%;
+    height: 100%;
+    background-color: rgb(32, 32, 38);
+}
+#a{
+    width: 100%;
+    height: 50%;
+    background-color: red;
+    padding-left: 60px;
+    padding-top: 17px;
+    color: #fff;
+}
+#a #h{
+    padding-top: 20px;
+}
+#a1{
+    width: 100%;
+    height: 50%;
+    background-position: 10% 35%;
+    background-image: url(https://images.unsplash.com/photo-1599180439865-2735aa19840f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fHw%3D);
+}
+#card3{
+    width: 25%;
+    height: 100%;
+    background-color: rgb(16, 20, 17);
+    color: #fff;
+}
+#card3 h1{
+    margin-left: 40px;
+    margin-top: 15px;
+}
+#j{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-left: 40px;
+    margin-top: 15px;
+}
+#k{
+    width: 50px;
+    height: 50px;
+    background-color: #dcc6c6;
+    border-radius: 50%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://images.unsplash.com/photo-1530505580493-3fa88046af67?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fG1vZGVsJTIwbWFufGVufDB8fDB8fHww);
+}
+#l{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-left: 40px;
+    margin-top: 15px;
+}
+#z{
+    width: 50px;
+    height: 50px;
+    background-color: #671919;
+    border-radius: 50%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://images.unsplash.com/photo-1622262918009-6a39cd1fb49d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fG1vZGVsJTIwbWFufGVufDB8fDB8fHww);
+}
+#x{
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#y{
+    display: flex;
+    margin-left: 40px;
+    gap: 6px;
+}
+#p{
+    width: 7px;
+    height: 7px;
+    background-color: red;
+    border-radius: 50%;
+}
+#p1{
+    width: 7px;
+    height: 7px;
+    background-color: rgb(186, 164, 164);
+    border-radius: 50%;
+}
+#x i{
+    margin-right: 40px;
+    color: rgb(121, 111, 111);
+}
